@@ -1,0 +1,7 @@
+group,mean_total_ads,median_total_ads,std_total_ads,count
+ad,24.823365,13.0,43.750456,564577
+psa,24.761138,12.0,42.860720,23524
+
+metric,value
+mann_whitney_u,6808288222.0
+mann_whitney_p_value,4.6909108547205694e-11

@@ -1,0 +1,2 @@
+variable,n_t1b_cid_nonmissing,status
+baseline_merge,966,not estimable: cid absent from t1a_b

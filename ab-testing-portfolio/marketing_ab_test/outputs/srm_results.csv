@@ -1,0 +1,7 @@
+metric,value
+observed_ad,564577
+observed_psa,23524
+assumed_intended_ratio_ad,0.96
+assumed_intended_ratio_psa,0.04
+chi2,7.084950828432072e-08
+p_value,0.9997876225135022

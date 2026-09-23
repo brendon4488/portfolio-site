@@ -1,0 +1,11 @@
+metric,value,status
+conversion_rate_ad,0.025546559636683747,verified
+conversion_rate_psa,0.01785410644448223,verified
+absolute_lift_pp,0.007692453192201517,verified
+relative_lift_pct,0.43086,verified
+z_statistic,7.3700781265454145,verified
+z_test_p_value,1.7052807161559727e-13,verified
+ci_95_low,0.005952,verified
+ci_95_high,0.009433,verified
+achieved_mde_pp,0.0025,verified
+permutation_p_value,9.999000099990002e-05,verified
